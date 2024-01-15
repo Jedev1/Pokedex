@@ -1,8 +1,8 @@
-<h1 align="center">Jujutsu Kaisen - João 👾</h1>
+<h1 align="center">Pokédex - João 👾</h1>
 
 ![Imagem do projeto finalizado](pokedex.png)
 
-<h4 align="center"><a href="https://jedev1.github.io/Jujutsu-kaisen/jjk-projeto">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://jedev1.github.io/Pokedex/">Confira o projeto aqui</a></h4>
 
 ---
 
